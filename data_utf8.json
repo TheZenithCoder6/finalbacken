@@ -1,0 +1,902 @@
+﻿[
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$U0SHyLVo4eG03gLRD4jIf5$8R8BjcJ7hgVMdEKrHwjPUJ41GKyPpA3xIfFTcxBUmQM=",
+    "last_login": "2026-05-03T10:09:12.199Z",
+    "is_superuser": true,
+    "username": "gupta",
+    "first_name": "",
+    "last_name": "",
+    "email": "gharshit15@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2026-05-03T10:07:58.609Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$xjvOwyJRB1JFx8SjzdXw4u$mlizTkRTpOYgw4U5cHoZ2G/RU7LZEb4f8SJ0jrOnQlQ=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "aman",
+    "first_name": "",
+    "last_name": "",
+    "email": "aman121@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-05-03T17:26:42.116Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$FxPVnDKy6uO9H2wYOOwiKU$4Bgr2GPGK/PkOvLVBGp79WI2sVLI8GRfyZv/bjHzjVI=",
+    "last_login": "2026-05-03T21:45:21.960Z",
+    "is_superuser": true,
+    "username": "Prince",
+    "first_name": "",
+    "last_name": "",
+    "email": "fhelp666@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2026-05-03T17:43:45.317Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "0wgu4u5abqzdoo6z5o34tkk7wy4lm24o",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGllm_aekzxksr3eNAyiR4qRC3B0ipYD2zcx7iZS3taWt85JGEhehxel3w1wePO2A7nm6zbLM07qMKHdFHrTLYSZ-Xg_376Dl3r41A2rLmrIPLnpr2NcKrKNFBgVI1YEq5YwmWmehBHY5RDTgKxfypMT7A-1hOEY:1wJe8e:IiNXFxsZUuZHdra-juCmj4q7euIWsS0Q49RbXBHaUG0",
+    "expire_date": "2026-05-17T21:14:08.710Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "2z3e1tlraltalkur2iedt0jo7bchy6h2",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGllm_aekzxksr3eNAyiR4qRC3B0ipYD2zcx7iZS3taWt85JGEhehxel3w1wePO2A7nm6zbLM07qMKHdFHrTLYSZ-Xg_376Dl3r41A2rLmrIPLnpr2NcKrKNFBgVI1YEq5YwmWmehBHY5RDTgKxfypMT7A-1hOEY:1wJeIm:xyrsiuZlChWyzUFXiIUC9XCYOEAlnqYrfepoesHpUcQ",
+    "expire_date": "2026-05-17T21:24:36.719Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "4eg9pzi996jnou0mi6ad36sv3c23w0sk",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGllm_aekzxksr3eNAyiR4qRC3B0ipYD2zcx7iZS3taWt85JGEhehxel3w1wePO2A7nm6zbLM07qMKHdFHrTLYSZ-Xg_376Dl3r41A2rLmrIPLnpr2NcKrKNFBgVI1YEq5YwmWmehBHY5RDTgKxfypMT7A-1hOEY:1wJecr:GEmiY8clxWnaSleIjGUZ2-v3Gzsw7YIYnAQ8CZyHIWc",
+    "expire_date": "2026-05-17T21:45:21.965Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "5l8jnl3dzcd8bphhgsooz24zly13dp4u",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGln-xY4p6TmDtd7d4ACypTipEHeHSCmgfTPzXiLBtpa0dV7STOIstDj9bhnwwXUHdId6axJbXZc5y12RB-3y2oifl8P9OyjQy7d2zjrSg0WiMFhPKgJy8OgMaBVAM3nimJUhgzYrGC1Go8Pk8zRSDE68P-BsN_k:1wJTlA:okdPdEwNQqzKZ1Huu7m4wonhhMXEJTk6bw7bUggsRY4",
+    "expire_date": "2026-05-17T10:09:12.203Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "84mnnbwo2ilfn905arzmlervxge5hqa8",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGllm_aekzxksr3eNAyiR4qRC3B0ipYD2zcx7iZS3taWt85JGEhehxel3w1wePO2A7nm6zbLM07qMKHdFHrTLYSZ-Xg_376Dl3r41A2rLmrIPLnpr2NcKrKNFBgVI1YEq5YwmWmehBHY5RDTgKxfypMT7A-1hOEY:1wJcKY:8PH9BLXTuIbjZujtTcTWbs8OAugiotccWpdEdmSt-ss",
+    "expire_date": "2026-05-17T19:18:18.132Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "fh23lnejrmiil2uzg725itlig4xhil97",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGllm_aekzxksr3eNAyiR4qRC3B0ipYD2zcx7iZS3taWt85JGEhehxel3w1wePO2A7nm6zbLM07qMKHdFHrTLYSZ-Xg_376Dl3r41A2rLmrIPLnpr2NcKrKNFBgVI1YEq5YwmWmehBHY5RDTgKxfypMT7A-1hOEY:1wJcW8:5wN3CKmN3buzmiS9XrvM4Cc6q7ckLmn-OiEIpXoeLEs",
+    "expire_date": "2026-05-17T19:30:16.019Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "grllrbqdhpk6slezpggastboyi62ixfk",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGllm_aekzxksr3eNAyiR4qRC3B0ipYD2zcx7iZS3taWt85JGEhehxel3w1wePO2A7nm6zbLM07qMKHdFHrTLYSZ-Xg_376Dl3r41A2rLmrIPLnpr2NcKrKNFBgVI1YEq5YwmWmehBHY5RDTgKxfypMT7A-1hOEY:1wJe5R:NWt69KeMf_VxGstrq35XO8RE6xCQwanO9WuktbkD9x8",
+    "expire_date": "2026-05-17T21:10:49.820Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "gzqtbhhpwe9930qoeecfes2f7cmfxwi6",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGllm_aekzxksr3eNAyiR4qRC3B0ipYD2zcx7iZS3taWt85JGEhehxel3w1wePO2A7nm6zbLM07qMKHdFHrTLYSZ-Xg_376Dl3r41A2rLmrIPLnpr2NcKrKNFBgVI1YEq5YwmWmehBHY5RDTgKxfypMT7A-1hOEY:1wJcdF:TS_tvryOY8QKk7K0am0lTy0v07fAhfZrP5UTksstqu0",
+    "expire_date": "2026-05-17T19:37:37.104Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "lpu2amu07z3osm8a5ki77mxam2krcenl",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGllm_aekzxksr3eNAyiR4qRC3B0ipYD2zcx7iZS3taWt85JGEhehxel3w1wePO2A7nm6zbLM07qMKHdFHrTLYSZ-Xg_376Dl3r41A2rLmrIPLnpr2NcKrKNFBgVI1YEq5YwmWmehBHY5RDTgKxfypMT7A-1hOEY:1wJeVf:YpvdZyD-OiKJ4kYZ4UQHbRJiJsKaNNY_6Y0Lrvux9h0",
+    "expire_date": "2026-05-17T21:37:55.371Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "wfdr25bgg80klrytokio30c9v1eu91rk",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGllm_aekzxksr3eNAyiR4qRC3B0ipYD2zcx7iZS3taWt85JGEhehxel3w1wePO2A7nm6zbLM07qMKHdFHrTLYSZ-Xg_376Dl3r41A2rLmrIPLnpr2NcKrKNFBgVI1YEq5YwmWmehBHY5RDTgKxfypMT7A-1hOEY:1wJcFH:rkmW4GDk9fWKWR_CxOjzOy1RJiC1H5hd48sJHCthMkw",
+    "expire_date": "2026-05-17T19:12:51.764Z"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 3,
+  "fields": {
+    "name": "The Triad of Jagannath Puri, Madhubani Painting by Ambika Devi",
+    "description": "Madhubani art.",
+    "price": 370,
+    "image": "https://res.cloudinary.com/dkemgt2zs/image/upload/v1777818952/The-Triad-of-Jagannath-Puri-Madhubani-Painting-by-Ambika-Devi-1_900x_pspdtx.webp",
+    "category": "Terracotta",
+    "artist_name": "Ankita Devi",
+    "dimensions": "17 X 6 X 13 inch (43.18 X 15.24 X 33.02 cm)",
+    "size_inch": null,
+    "size_cm": null,
+    "medium": null,
+    "style": null,
+    "stock": 0,
+    "is_available": false
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 4,
+  "fields": {
+    "name": "madubani art",
+    "description": "madhubani art",
+    "price": 3696,
+    "image": "https://res.cloudinary.com/dkemgt2zs/image/upload/v1777818952/The-Triad-of-Jagannath-Puri-Madhubani-Painting-by-Ambika-Devi-1_900x_pspdtx.webp",
+    "category": "Other",
+    "artist_name": "Ambika Devi",
+    "dimensions": "1200 * 720",
+    "size_inch": "1200",
+    "size_cm": "720",
+    "medium": null,
+    "style": null,
+    "stock": 15,
+    "is_available": true
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 5,
+  "fields": {
+    "name": "sky short",
+    "description": "best photo fromm sky",
+    "price": 1200,
+    "image": "https://res.cloudinary.com/dkemgt2zs/image/upload/v1777806057/samples/balloons.jpg",
+    "category": "Photography",
+    "artist_name": "Mona Singh",
+    "dimensions": "1200 * 720",
+    "size_inch": "12000 ich",
+    "size_cm": "720",
+    "medium": null,
+    "style": null,
+    "stock": 11,
+    "is_available": true
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 6,
+  "fields": {
+    "name": "Test Artwork",
+    "description": "Beautiful painting",
+    "price": 5000,
+    "image": "https://via.placeholder.com/400",
+    "category": "Other",
+    "artist_name": null,
+    "dimensions": null,
+    "size_inch": null,
+    "size_cm": null,
+    "medium": null,
+    "style": null,
+    "stock": 0,
+    "is_available": false
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 7,
+  "fields": {
+    "name": "Test Artwork",
+    "description": "Beautiful painting",
+    "price": 5000,
+    "image": "https://via.placeholder.com/400",
+    "category": "Other",
+    "artist_name": null,
+    "dimensions": null,
+    "size_inch": null,
+    "size_cm": null,
+    "medium": null,
+    "style": null,
+    "stock": 0,
+    "is_available": false
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 8,
+  "fields": {
+    "name": "Asim Basu",
+    "description": "All shipments are handled by professional art logistics partners experienced in transporting fragile and high-value artworks. Each package is clearly marked as ôFragileö and handled with special care throughout the delivery process.",
+    "price": 85000,
+    "image": "https://res.cloudinary.com/dkemgt2zs/image/upload/v1777840920/1410241925_G0289_Asim_Basu_Romance_Bronze_11.5_x_3_.5x_4_in_2012_80_000_-display_jtlqx8.webp",
+    "category": "Metal",
+    "artist_name": null,
+    "dimensions": null,
+    "size_inch": null,
+    "size_cm": null,
+    "medium": null,
+    "style": null,
+    "stock": 1,
+    "is_available": true
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 9,
+  "fields": {
+    "name": "Chaitali De Chanda",
+    "description": "All shipments are handled by professional art logistics partners experienced in transporting fragile and high-value artworks. Each package is clearly marked as ôFragileö and handled with special care throughout the delivery process.",
+    "price": 220000,
+    "image": "https://res.cloudinary.com/dkemgt2zs/image/upload/q_auto/f_auto/v1777844599/db18ac1c672f119de1acf73f9b30b8dc-display_c7aio8.webp",
+    "category": "Premium",
+    "artist_name": "Ankita Devi",
+    "dimensions": "17 X 6 X 13 inch (43.18 X 15.24 X 33.02 cm)",
+    "size_inch": "",
+    "size_cm": "",
+    "medium": "",
+    "style": "",
+    "stock": 6,
+    "is_available": true
+  }
+},
+{
+  "model": "shop.artist",
+  "pk": 1,
+  "fields": {
+    "name": "Neeraj Gupta",
+    "genre": "male",
+    "dob": "1967",
+    "image": "https://res.cloudinary.com/dkemgt2zs/image/upload/q_auto/f_auto/v1777808578/Neeraj_Gupta_rdjqig.jpg",
+    "about": "A sculptor working in stone, bronze, and terracotta, Gupta revives ancient Indian clay traditions with contemporary forms. His terracotta works explore human emotions, nature, and the rural-urban divide.",
+    "is_top": true,
+    "short_about": "Terracotta artist"
+  }
+},
+{
+  "model": "shop.artist",
+  "pk": 2,
+  "fields": {
+    "name": "S. Nandagopal",
+    "genre": "male",
+    "dob": "1946",
+    "image": "https://res.cloudinary.com/dkemgt2zs/image/upload/v1777806851/images_fmmwwl.jpg",
+    "about": "Son of painter K.C.S. Paniker, he created intricate bronze sculptures drawing from South Indian temple art. His modernist works feature mythical figures and animals, earning him the Padma Shri in 2007.",
+    "is_top": true,
+    "short_about": "Metal artist"
+  }
+},
+{
+  "model": "shop.artist",
+  "pk": 3,
+  "fields": {
+    "name": "Sita Devi",
+    "genre": "Female",
+    "dob": "1914",
+    "image": "https://res.cloudinary.com/dkemgt2zs/image/upload/v1777806159/sita_devi-1100-X-600-850x560_pefoq8.webp",
+    "about": "She was the first Madhubani artist to receive Padma Shri (1981) and pioneered the Bharni style with vibrant colors and Hindu deities. Her work transformed this traditional folk art into a globally recognized contemporary form",
+    "is_top": true,
+    "short_about": "Madhubani artist"
+  }
+},
+{
+  "model": "shop.artist",
+  "pk": 4,
+  "fields": {
+    "name": "Manisha Gera Baswani",
+    "genre": "Female",
+    "dob": "1967",
+    "image": "https://res.cloudinary.com/dkemgt2zs/image/upload/v1777808901/Paletteofpain1_j8lvlg.avif",
+    "about": "A multidisciplinary artist working in glass art, painting, and photography. Her notable project \"Postcards from Home\" documents India's Partition through studio portraits of 47 artists. The exhibition was featured at the Ashmolean Museum and Lahore Biennale.",
+    "is_top": true,
+    "short_about": "Painting, and Photography"
+  }
+},
+{
+  "model": "shop.artist",
+  "pk": 5,
+  "fields": {
+    "name": "Jyotsna Bhatt",
+    "genre": "Female",
+    "dob": "1940",
+    "image": "https://res.cloudinary.com/dkemgt2zs/image/upload/v1777809175/Jyotsna_Bhatt_died_2020_ceramicist_u1wiz9.png",
+    "about": "One of India's finest ceramic artists, she is known for hand-built terracotta rejecting the potter's wheel. Her minimalist, organic forms (spheres, cats, animal shapes) and glazed pottery are distinctive. She taught at M.S. University Baroda and helped establish ceramics as a specialization there.",
+    "is_top": true,
+    "short_about": "Hand-built terracotta"
+  }
+},
+{
+  "model": "shop.artist",
+  "pk": 6,
+  "fields": {
+    "name": "Rana Pandey",
+    "genre": "male",
+    "dob": "Not publicly disclosed (active 2010sûpresent)",
+    "image": "https://res.cloudinary.com/dkemgt2zs/image/upload/v1777809510/images_1_aajey3.jpg",
+    "about": "Kolkata-based documentary and travel photographer. He has won international accolades including Istanbul Photo Awards (2024) and Andrei Stenin International Press Photo Contest (2017, 2022, 2024). His ongoing project \"Torn Between the Tiger and the Tide\" documents human-animal conflict and climate change in the Sundarbans. His approach focuses on patience, observation, and telling stories of marginalized communities with dignity.",
+    "is_top": true,
+    "short_about": "Photographer"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2026-05-03T10:37:07.631Z",
+    "user": [
+      "gupta"
+    ],
+    "content_type": [
+      "shop",
+      "artist"
+    ],
+    "object_id": "1",
+    "object_repr": "Raja Ravi Varma",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2026-05-03T10:38:34.211Z",
+    "user": [
+      "gupta"
+    ],
+    "content_type": [
+      "shop",
+      "artist"
+    ],
+    "object_id": "1",
+    "object_repr": "Raja Ravi Varma",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2026-05-03T10:38:37.354Z",
+    "user": [
+      "gupta"
+    ],
+    "content_type": [
+      "shop",
+      "artist"
+    ],
+    "object_id": "1",
+    "object_repr": "Raja Ravi Varma",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2026-05-03T10:41:29.645Z",
+    "user": [
+      "gupta"
+    ],
+    "content_type": [
+      "shop",
+      "artist"
+    ],
+    "object_id": "1",
+    "object_repr": "Raja Ravi Varma",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Is top\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2026-05-03T10:47:16.302Z",
+    "user": [
+      "gupta"
+    ],
+    "content_type": [
+      "shop",
+      "artist"
+    ],
+    "object_id": "2",
+    "object_repr": "mohit",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2026-05-03T10:58:41.810Z",
+    "user": [
+      "gupta"
+    ],
+    "content_type": [
+      "shop",
+      "artist"
+    ],
+    "object_id": "3",
+    "object_repr": "Sita Devi",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2026-05-03T10:59:06.464Z",
+    "user": [
+      "gupta"
+    ],
+    "content_type": [
+      "shop",
+      "artist"
+    ],
+    "object_id": "3",
+    "object_repr": "Sita Devi",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Is top\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2026-05-03T11:03:20.662Z",
+    "user": [
+      "gupta"
+    ],
+    "content_type": [
+      "shop",
+      "artist"
+    ],
+    "object_id": "3",
+    "object_repr": "Sita Devi",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2026-05-03T11:08:18.982Z",
+    "user": [
+      "gupta"
+    ],
+    "content_type": [
+      "shop",
+      "artist"
+    ],
+    "object_id": "3",
+    "object_repr": "Sita Devi",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2026-05-03T11:15:00.576Z",
+    "user": [
+      "gupta"
+    ],
+    "content_type": [
+      "shop",
+      "artist"
+    ],
+    "object_id": "2",
+    "object_repr": "S. Nandagopal",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\", \"Dob\", \"Image\", \"About\", \"Short about\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2026-05-03T11:43:14.767Z",
+    "user": [
+      "gupta"
+    ],
+    "content_type": [
+      "shop",
+      "artist"
+    ],
+    "object_id": "1",
+    "object_repr": "Neeraj Gupta",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\", \"Dob\", \"Image\", \"About\", \"Short about\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2026-05-03T11:48:42.777Z",
+    "user": [
+      "gupta"
+    ],
+    "content_type": [
+      "shop",
+      "artist"
+    ],
+    "object_id": "4",
+    "object_repr": "Manisha Gera Baswani",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2026-05-03T11:49:08.916Z",
+    "user": [
+      "gupta"
+    ],
+    "content_type": [
+      "shop",
+      "artist"
+    ],
+    "object_id": "4",
+    "object_repr": "Manisha Gera Baswani",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Is top\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2026-05-03T11:53:25.513Z",
+    "user": [
+      "gupta"
+    ],
+    "content_type": [
+      "shop",
+      "artist"
+    ],
+    "object_id": "5",
+    "object_repr": "Jyotsna Bhatt",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2026-05-03T11:58:54.501Z",
+    "user": [
+      "gupta"
+    ],
+    "content_type": [
+      "shop",
+      "artist"
+    ],
+    "object_id": "6",
+    "object_repr": "Rana Pandey",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2026-05-03T14:01:28.314Z",
+    "user": [
+      "gupta"
+    ],
+    "content_type": [
+      "shop",
+      "product"
+    ],
+    "object_id": "1",
+    "object_repr": "glass art",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2026-05-03T14:18:16.468Z",
+    "user": [
+      "gupta"
+    ],
+    "content_type": [
+      "shop",
+      "product"
+    ],
+    "object_id": "1",
+    "object_repr": "glass art",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2026-05-03T14:18:39.887Z",
+    "user": [
+      "gupta"
+    ],
+    "content_type": [
+      "shop",
+      "product"
+    ],
+    "object_id": "2",
+    "object_repr": "f",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2026-05-03T14:34:20.578Z",
+    "user": [
+      "gupta"
+    ],
+    "content_type": [
+      "shop",
+      "product"
+    ],
+    "object_id": "3",
+    "object_repr": "The Triad of Jagannath Puri, Madhubani Painting by Ambika Devi",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2026-05-03T14:36:30.765Z",
+    "user": [
+      "gupta"
+    ],
+    "content_type": [
+      "shop",
+      "product"
+    ],
+    "object_id": "3",
+    "object_repr": "The Triad of Jagannath Puri, Madhubani Painting by Ambika Devi",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2026-05-03T15:00:20.562Z",
+    "user": [
+      "gupta"
+    ],
+    "content_type": [
+      "shop",
+      "product"
+    ],
+    "object_id": "4",
+    "object_repr": "madubani art",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2026-05-03T15:02:25.779Z",
+    "user": [
+      "gupta"
+    ],
+    "content_type": [
+      "shop",
+      "product"
+    ],
+    "object_id": "4",
+    "object_repr": "madubani art",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Artist name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2026-05-03T15:07:46.970Z",
+    "user": [
+      "gupta"
+    ],
+    "content_type": [
+      "shop",
+      "product"
+    ],
+    "object_id": "4",
+    "object_repr": "madubani art",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Stock\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2026-05-03T15:09:25.536Z",
+    "user": [
+      "gupta"
+    ],
+    "content_type": [
+      "shop",
+      "product"
+    ],
+    "object_id": "4",
+    "object_repr": "madubani art",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Category\", \"Artist name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2026-05-03T15:11:22.639Z",
+    "user": [
+      "gupta"
+    ],
+    "content_type": [
+      "shop",
+      "product"
+    ],
+    "object_id": "4",
+    "object_repr": "madubani art",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2026-05-03T15:29:03.137Z",
+    "user": [
+      "gupta"
+    ],
+    "content_type": [
+      "shop",
+      "product"
+    ],
+    "object_id": "4",
+    "object_repr": "madubani art",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Category\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2026-05-03T15:33:52.069Z",
+    "user": [
+      "gupta"
+    ],
+    "content_type": [
+      "shop",
+      "product"
+    ],
+    "object_id": "5",
+    "object_repr": "sky short",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2026-05-03T16:06:20.607Z",
+    "user": [
+      "gupta"
+    ],
+    "content_type": [
+      "shop",
+      "product"
+    ],
+    "object_id": "5",
+    "object_repr": "sky short",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Size inch\", \"Size cm\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2026-05-03T16:06:56.824Z",
+    "user": [
+      "gupta"
+    ],
+    "content_type": [
+      "shop",
+      "product"
+    ],
+    "object_id": "4",
+    "object_repr": "madubani art",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Size inch\", \"Size cm\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2026-05-03T16:07:43.148Z",
+    "user": [
+      "gupta"
+    ],
+    "content_type": [
+      "shop",
+      "product"
+    ],
+    "object_id": "5",
+    "object_repr": "sky short",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Size inch\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2026-05-03T21:25:44.414Z",
+    "user": [
+      "gupta"
+    ],
+    "content_type": [
+      "shop",
+      "product"
+    ],
+    "object_id": "8",
+    "object_repr": "Asim Basu",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Category\"]}}]"
+  }
+}
+]
