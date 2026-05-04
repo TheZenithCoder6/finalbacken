@@ -20,7 +20,12 @@ SECRET_KEY = 'django-insecure-6_2wws89j69))1n#$hknkm)$xl9(*o#6=x(*@i4_gc!imjdcuj
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'localhost',
+    '127.0.0.1',
+    '.vercel.app',      # ✅ Sabhi Vercel subdomains ke liye
+    'finalbacken.vercel.app',  # ✅ Tera specific domain
+]
 
 # Application definition
 INSTALLED_APPS = [
