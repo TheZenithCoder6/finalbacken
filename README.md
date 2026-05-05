@@ -1,6 +1,6 @@
 # 🎨 Art Gallery – Full Stack Art E‑commerce Platform
 
-A modern, full‑stack web application for an art gallery that allows users to browse artworks, view artist profiles, make purchases, and manage inventory. The platform features a rich, interactive frontend with 3D visualisations and a robust backend API with authentication, product management, and payment readiness.
+A modern, full‑stack web application for an art gallery that allows users to browse artworks, view artist profiles, make purchases, and manage inventory. The platform features a rich, interactive frontend with visualisations and a robust backend API with authentication, product management, and payment readiness.
 
 ## ✨ Key Features
 
