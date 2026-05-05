@@ -27,7 +27,7 @@ A modern, full‑stack web application for an art gallery that allows users to b
 |------|------------|
 | **Frontend Framework** | Next.js 16 (React 19) |
 | **Styling** | Tailwind CSS, `clsx`, PostCSS |
-| **Animations / 3D** | GSAP, Framer Motion, Three.js (React Three Fiber) |
+| **Animations / 3D** | GSAP, Framer Motion, |
 | **Carousels** | Swiper.js, Lenis (smooth scroll) |
 | **Backend** | Django 5.2, Django REST Framework |
 | **Database** | PostgreSQL (with psycopg2) |
